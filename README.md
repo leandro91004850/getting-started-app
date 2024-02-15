@@ -165,6 +165,8 @@ imagem do container.
 
 _Documentação docker compose [DOC](https://docs.docker.com/get-started/08_using_compose/)_            
 
+_Aplicação usada de teste para o Compose [Vidly](https://github.com/CodeWithSouma/Vidly-Docker/)_  
+
 * `docker compose version`: Verificando a versão do docker compose
 ![alt text](images/image-41.png)
 
